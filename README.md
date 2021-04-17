@@ -1,5 +1,5 @@
-### Hi there, I'm Paul 👋👋
-I am a first year Mechanical Engineering Student at UC San Diego. I love Machine Learning and Algorithms and I'm always looking forward to learn new stuff.
+## Hi there, I'm Paul 👋👋
+### I am a first year Mechanical Engineering Student at UC San Diego. I love Machine Learning and Algorithms and I'm always looking forward to learn new stuff.
 
 
 - 😄 Pronouns: He/Him/is
