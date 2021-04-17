@@ -18,7 +18,7 @@
 ### 💻:keyboard: Languages and Tools
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyj2001&repo=github-readme-stats&layout=compact" />
+  <img align="right" src="https://github.com/pyj2001/Better-readme-stats-forked/blob/master/generated/languages.svg" />
 </a>
 
 
@@ -42,7 +42,7 @@
 ----
 
 
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=pyj2001&show_icons=true&theme=tokyonight">
+<img align='right'   width="300" src="https://github.com/pyj2001/Better-readme-stats-forked/blob/master/generated/overview.svg">
 
 
 ### 📊 Weekly development status
