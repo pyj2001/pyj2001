@@ -12,6 +12,7 @@ I am a first year Mechanical Engineering Student at UC San Diego. I love Machine
 - 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/pyj2001) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/pyj2001) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/paul-pan001/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](paulbigpan@gmail.com)
+|---|---|---|---|
 
 
 ----
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=pyj2001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 
-
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
