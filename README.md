@@ -51,7 +51,7 @@ I am a first year Mechanical Engineering Student at UC San Diego. I love Machine
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=pyj2001&show_icons=true&theme=tokyonight">
 
 
-📊 **Weekly development breakdown**
+### 📊 Weekly development status
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
