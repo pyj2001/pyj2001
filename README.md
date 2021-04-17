@@ -41,12 +41,6 @@ I am a first year Mechanical Engineering Student at UC San Diego. I love Machine
 
 ----
 
-### 👀 Active Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pyj2001&repo=Python)](https://github.com/pyj2001/Python)
-
-
-----
-
 
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=pyj2001&show_icons=true&theme=tokyonight">
 
