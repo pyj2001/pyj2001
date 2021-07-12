@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: He/Him/is
 - ⚡ Fun fact: I like to eat more bananas (non-fun-fact).
-- 🔭 I’m currently working on stuff.
+- 🔭 I’m currently working on mannequins.
 - 🌱 I’m currently studying Machine Learning & Deep Learning.
 - 🤔 I’m looking for help with Tensorflow.
 - 📫 How to contact me:
