@@ -4,9 +4,9 @@
 
 - 😄 Pronouns: He/Him/is
 - ⚡ Fun fact: I like to eat more bananas (non-fun-fact).
-- 🔭 I’m currently working on mannequins.
-- 🌱 I’m currently studying Machine Learning & Deep Learning.
-- 🤔 I’m looking for help with Tensorflow.
+- 🔭 I’m currently working on automating mannequins.
+- 🌱 I’m currently studying transfer learning in reinforcement learning.
+- 🤔 I’m looking for help with some machine learning frameworks.
 - 📫 How to contact me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/packetsss) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/pyj2001) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/paul-pan001/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:paulbigpan@gmail.com) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="gmail logo" width="24">](https://www.instagram.com/_popaz/)
