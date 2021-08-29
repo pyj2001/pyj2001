@@ -26,6 +26,7 @@ Data Science
 
 [<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/stable%20baseline3-gray?style=for-the-badge&logo=stablebaseline3&logoColor=white"/>](https://github.com/packetsss)
