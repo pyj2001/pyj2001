@@ -52,14 +52,13 @@ Software Development
 [<img src="https://img.shields.io/badge/discord%20py-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>](https://github.com/packetsss)
 
 
-
   **Development Environment:**
   
-[<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />](https://github.com/packetsss)
 
+[<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>](https://github.com/packetsss)
 
 
   **Version Control:**
