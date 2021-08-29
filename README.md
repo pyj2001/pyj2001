@@ -49,7 +49,7 @@ Software Development
 [<img src="https://img.shields.io/badge/pyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/tkinter%20-%23013243.svg?&style=for-the-badge&logo=tkinter&logoColor=red"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/tweepy%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/discord.py-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/discord%20py-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>](https://github.com/packetsss)
 
 
 
