@@ -26,11 +26,22 @@
 
   **Python:**
   
-[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/packetsss) [<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />](https://github.com/packetsss)
+[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>](https://github.com/packetsss)
+[<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />](https://github.com/packetsss) 
+[<img alt="PyTorch" src="https://img.shields.io/badge/pytorch%20-%23013243.svg?&style=for-the-badge&logo=pytorch&logoColor=red"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/tensorflow%20-%23013243.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/opencv%20-%23013243.svg?&style=for-the-badge&logo=opencv"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/gym%20-%23013243.svg?&style=for-the-badge&logo=openaigym&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/pygame%20-%23013243.svg?&style=for-the-badge&logo=pygame&logoColor=orange"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/pymunk%20-%23013243.svg?&style=for-the-badge&logo=pymunk&logoColor=white"/>](https://github.com/packetsss)
+
+
+
+
 
   **Software Development:**
   
-[<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>](https://github.com/packetsss)[<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://github.com/packetsss)[<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>](https://github.com/packetsss)
+[<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>](https://github.com/packetsss)[<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://github.com/packetsss)[<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />](https://github.com/packetsss)
 
 
   **Version Control:**
