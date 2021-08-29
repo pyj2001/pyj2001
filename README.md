@@ -27,10 +27,11 @@ Data Science
 [<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/transformers-yellow?style=for-the-badge&logo=face&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/stable%20baseline3-gray?style=for-the-badge&logo=stablebaseline3&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />](https://github.com/packetsss) 
 [<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/matplotlib%20-%23013243.svg?&style=for-the-badge&logo=matplotlib&logoColor=red"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/matplotlib-green?&style=for-the-badge&logo=matplotlib&logoColor=red"/>](https://github.com/packetsss)
 
 Computer Vision
 
@@ -40,14 +41,14 @@ Game Development
 
 [<img src="https://img.shields.io/badge/gym%20-%23013243.svg?&style=for-the-badge&logo=openaigym&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/pygame%20-%23013243.svg?&style=for-the-badge&logo=pygame&logoColor=orange"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/pymunk%20-%23013243.svg?&style=for-the-badge&logo=pymunk&logoColor=white"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/pygame-purple?&style=for-the-badge&logo=matplotlib&logoColor=red"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/pymunk-black?&style=for-the-badge&logo=pymunk&logoColor=white"/>](https://github.com/packetsss)
 
 Software Development
 
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/pyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/tkinter%20-%23013243.svg?&style=for-the-badge&logo=tkinter&logoColor=red"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/tkinter-blue?&style=for-the-badge&logo=tkinter&logoColor=red"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/tweepy%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/discord%20py-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>](https://github.com/packetsss)
 
