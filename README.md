@@ -42,7 +42,7 @@ Game Development
 
 [<img src="https://img.shields.io/badge/gym%20-%23013243.svg?&style=for-the-badge&logo=openaigym&logoColor=white"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white"/>](https://github.com/packetsss)
-[<img src="https://img.shields.io/badge/pygame-purple?&style=for-the-badge&logo=matplotlib&logoColor=red"/>](https://github.com/packetsss)
+[<img src="https://img.shields.io/badge/pygame-Emerald?&style=for-the-badge&logo=matplotlib&logoColor=red"/>](https://github.com/packetsss)
 [<img src="https://img.shields.io/badge/pymunk-black?&style=for-the-badge&logo=pymunk&logoColor=white"/>](https://github.com/packetsss)
 
 Software Development
