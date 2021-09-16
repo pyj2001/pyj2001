@@ -72,7 +72,7 @@ Software Development
 
 
 
-[<img align='right' width="390" src="https://github-readme-stats.vercel.app/api?username=packetsss&count_private=true&show_icons=true">](https://github.com/packetsss)
+[<img align='right' width="300" src="https://github-readme-stats.vercel.app/api?username=packetsss&count_private=true&show_icons=true">](https://github.com/packetsss)
 
 ### 📊 Weekly development status
 <!--START_SECTION:waka-->
