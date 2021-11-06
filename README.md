@@ -80,6 +80,6 @@ Software Development
 ### 📊 Weekly development status
 <!--START_SECTION:waka-->
 ```text
-HTML   10 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
