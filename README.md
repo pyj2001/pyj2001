@@ -81,10 +81,11 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-Python       10 hrs 48 mins  █████████░░░░░░░░░░░░░░░░   36.12 %
-TypeScript   10 hrs 6 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 %
-CSS          6 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-Other        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Python       11 hrs 33 mins  ███████████░░░░░░░░░░░░░░   43.50 %
+TypeScript   6 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
+CSS          5 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+Text         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Other        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
