@@ -81,10 +81,9 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-Python       12 hrs 16 mins  ████████████████████████▒   97.36 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python   5 hrs 2 mins    █████████████████████████   99.88 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
