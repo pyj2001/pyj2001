@@ -81,10 +81,10 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.89 %
-JavaScript   3 hrs 59 mins   ████████████░░░░░░░░░░░░░   48.20 %
-YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript   5 hrs 42 mins   ███████████████▒░░░░░░░░░   61.23 %
+Python       3 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.93 %
+YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
