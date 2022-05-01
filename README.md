@@ -81,10 +81,11 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-Python       23 hrs 57 mins  ████████████████████████░   95.58 %
-Text         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python       19 hrs 1 min    ███████████████████████▒░   92.70 %
+Text         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Batchfile    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
