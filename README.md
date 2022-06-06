@@ -81,8 +81,7 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 53 mins   █████████████████████████   99.97 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   3 hrs 31 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
