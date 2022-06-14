@@ -81,9 +81,8 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-HTML     17 mins         ████████████░░░░░░░░░░░░░   48.21 %
-Python   14 mins         ██████████░░░░░░░░░░░░░░░   40.54 %
-JSON     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+HTML     17 mins         █████████████████▒░░░░░░░   68.78 %
+Python   8 mins          ███████▓░░░░░░░░░░░░░░░░░   31.22 %
 ```
 
 <!--END_SECTION:waka-->
