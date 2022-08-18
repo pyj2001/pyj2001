@@ -81,7 +81,8 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-Properties   1 hr 18 mins    █████████████████████████   100.00 %
+Properties   1 hr 18 mins    █████████████████████████   99.75 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
