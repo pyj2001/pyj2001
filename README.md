@@ -81,8 +81,7 @@ Software Development
 <!--START_SECTION:waka-->
 
 ```text
-JSON         0 secs          ███████████████▓░░░░░░░░░   62.86 %
-Properties   0 secs          █████████▒░░░░░░░░░░░░░░░   37.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
