@@ -1,28 +1,6 @@
 ## Hi there, I'm Paul 👋👋
-### I am a second year Mechanical Engineer at UC San Diego. I love Machine Learning and I'm always looking forward to learn new stuff.
 
 
-- 😄 Pronouns: He/Him/is
-- ⚡ Fun fact: I like to eat more bananas (non-fun-fact).
-- 🔭 I’m currently working on automating mannequins.
-- 🌱 I’m currently studying transfer learning in reinforcement learning.
-- 🤔 I’m looking for help with some machine learning frameworks.
-- 📫 How to contact me:
-
-**Website: [packetsss.live](https://packetsss.live/#/)**
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/packetsss) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/pyj2001) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/paul-pan001/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:paulbigpan@gmail.com) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="gmail logo" width="24">](https://www.instagram.com/_popaz/)
-|---|---|---|---|---|
-
-----
-### 💻:keyboard: Languages and Tools
-
-<a href="https://github.com/packetsss">
-  <img align="right" src="https://github.com/packetsss/Better-readme-stats-forked/blob/master/generated/languages.svg" />
-</a>
-
-
-  **Python:**
 
 Data Science
 
